@@ -1,9 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://theadastudios.com/</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://theadastudios.com/og-image.jpg</image:loc>
+      <image:title>The ADA Studios — Luxury Interior Design</image:title>
+      <image:caption>The ADA Studios is a luxury architecture and interior design studio in Surat, Mumbai and Doha.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p1/h.jpg</image:loc>
+      <image:title>Shah House — Luxury Villa Interior Design, Surat</image:title>
+      <image:caption>Shah House luxury villa interior design project by The ADA Studios, Surat</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p2/h.jpg</image:loc>
+      <image:title>Patel Villa — Interior Design, Surat</image:title>
+      <image:caption>Patel Villa interior design project by The ADA Studios, Surat</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p4/h.jpg</image:loc>
+      <image:title>Mehta Residence — 4BHK Interior Design, Mumbai</image:title>
+      <image:caption>Mehta Residence premium residential interior design by The ADA Studios, Mumbai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p5/h.jpg</image:loc>
+      <image:title>Desai Residence — 4BHK Interior Design, Mumbai</image:title>
+      <image:caption>Desai Residence interior design project by The ADA Studios, Mumbai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p7/h.jpg</image:loc>
+      <image:title>Kothari Residence — 5BHK Interior Design, Surat</image:title>
+      <image:caption>Kothari Residence luxury interior design by The ADA Studios, Surat</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p10/h.jpg</image:loc>
+      <image:title>Bhanderi House — Farm Estate Interior Design, Surat</image:title>
+      <image:caption>Bhanderi House farm estate interior design by The ADA Studios, Surat</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p16/h.jpg</image:loc>
+      <image:title>Al-Sulaiti Villa — Luxury Interior Design, Doha</image:title>
+      <image:caption>Al-Sulaiti Villa luxury villa interior design by The ADA Studios, Doha Qatar</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/projects/p17/h.jpg</image:loc>
+      <image:title>Al-Thani Villa — Luxury Interior Design, Doha</image:title>
+      <image:caption>Al-Thani Villa interior design project by The ADA Studios, Doha Qatar</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theadastudios.com/images/logo/logo-bw.png</image:loc>
+      <image:title>The ADA Studios Logo</image:title>
+      <image:caption>The ADA Studios — Luxury Architecture and Interior Design Studio</image:caption>
+    </image:image>
   </url>
 </urlset>
